@@ -40,7 +40,7 @@ public final class Constants {
     static final String PROP_BUILD_VERSION = "ro.android.build.version";
     static final String PROP_VERSION_CODE = "ro.android.ota.version_code";
     static final String OTA_URL = "https://raw.githubusercontent.com/hritikutekar/vendor_nokia_DRG_sprout/pie/test.json";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/RaghuVarma331/changelogs/master/Dragon/PixelExperience.txt";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Ankits-lab/OTA-server/main/PL2.json";
     public static final String DOWNLOAD_PATH = "/data/os_updates/";
     static final String EXPORT_PATH = "Os_Updates/";
 }
